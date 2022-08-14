@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="QLabel">
+    <file>logo.png</file>
+    <file>group.png</file>
+    <file>168253.png</file>
+    <file>2097652.png</file>
+    <file>3712536.png</file>
+    <file>warn.png</file>
+    <file>question.png</file>
+    <file>user1.png</file>
+    <file>user.png</file>
+    <file>15659.png</file>
+    <file>help.png</file>
+    <file>bg1.gif</file>
+    <file>bg.jpg</file>
+    <file>images.jfif</file>
+    <file>Screenshot 2021-05-23 181053.png</file>
+    <file>3d_514.jpg</file>
+  </qresource>
+</RCC>
